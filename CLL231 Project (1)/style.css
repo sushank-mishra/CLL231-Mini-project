@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  /*background: linear-gradient(to right,#FF5C8D,#524A4E);*/
+  background-image: linear-gradient(to right, #d4fc79 0%, #96e6a1 100%);
+}
+
+canvas {
+  display: block;
+  margin:auto;
+  border-radius: 10px;
+}
+h1{
+  background-color: #E7ED9B;
+  display: inline-block;
+  border: 3px solid #395b64;
+  border-radius: 10px;
+  padding: 0.5em;
+  margin-left: 30%;
+  color: #395b64;
+}
+.center{
+  display: block;
+  margin-left: 48vw;
+}
